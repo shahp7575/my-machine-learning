@@ -15,3 +15,7 @@ Implementing machine learning algorithms and techniques on various datasets.
 - Various Implementations of t-SNE : https://lvdmaaten.github.io/tsne/
 
 - Word2Vec t-SNE : https://github.com/sismetanin/word2vec-tsne/blob/master/Visualizing%20Word2Vec%20Word%20Embeddings%20using%20t-SNE.ipynb
+
+### Embeddings
+
+- Word2Vec The Simpsons - https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial
