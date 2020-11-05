@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 01 01:11:02 2016
 
-@author: DIP
+@author: DIPPPP
 """
 
 CONTRACTION_MAP = {
