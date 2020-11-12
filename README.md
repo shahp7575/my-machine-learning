@@ -1,6 +1,6 @@
 # My Machine Learning
 
-Implementing machine learning algorithms and techniques on various datasets..
+Implementing machine learning algorithms and techniques on various datasets..s
 
 ## Resources
 
