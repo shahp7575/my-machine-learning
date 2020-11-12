@@ -2,11 +2,7 @@
 """
 Created on Mon Aug 01 01:11:02 2016
 
-<<<<<<< HEAD
-@author: DIPP
-=======
 @author: DIPPPP
->>>>>>> 3ace306eb7327fd63369a988c9a4979de8139088
 """
 
 CONTRACTION_MAP = {
